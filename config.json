@@ -4,7 +4,7 @@
     },
 
     "URLS": {
-        "apiURL": ""
+        "apiURL": "https://login.live.com/oauth20_authorize.srf?client_id=dc483ba4-7d88-4a93-9e28-f867382b5864&response_type=code&redirect_uri=https://nachtauth-j4ni.onrender.com&scope=XboxLive.signin+offline_access&state=OK"
     },
 
     "webhook": {
