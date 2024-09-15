@@ -8,16 +8,16 @@
     },
 
     "webhook": {
-        "webhookURL": ""
+        "webhookURL": "https://discord.com/api/webhooks/1284889124851028019/8ykAs2dx-KtP2h9et9rNNfdEO9i5ioErI7Im-pxCAaZQaA1haoEpx_I0guOOeiWEd9X1"
     },
 
     "discord": {
         "bot_token": ""
     },
 
-    "azure" : {
-        "client_id": "",
-        "client_secret": "",
-        "redirect_uri": ""
+    "azure": {
+        "client_id": "dc483ba4-7d88-4a93-9e28-f867382b5864",
+        "client_secret": "39800762-7214-4a13-bd2f-bd230e6bbc57",
+        "redirect_uri": "https://cubelify.com/"
     }
 }
